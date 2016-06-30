@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 aasdkasdhjasdja;sdlkjadblah blah
 changed
 changed2
 
 asdasdlkasdkj
+=======
+asdkjasldkjasdaasdkasdhjasdja;sdlkjadblah blah
+cha
+chaasdnged2
+>>>>>>> moreplanets
